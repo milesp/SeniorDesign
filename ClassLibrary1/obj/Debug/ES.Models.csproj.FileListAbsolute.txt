@@ -3,3 +3,8 @@ E:\visual studios\SeniorDesign\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 E:\visual studios\SeniorDesign\ClassLibrary1\obj\Debug\ES.Models.csprojResolveAssemblyReference.cache
 E:\visual studios\SeniorDesign\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 E:\visual studios\SeniorDesign\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\ClassLibrary1\obj\Debug\ES.Models.csprojResolveAssemblyReference.cache

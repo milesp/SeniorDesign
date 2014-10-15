@@ -3,3 +3,10 @@ E:\visual studios\SeniorDesign\ES.controller\bin\Debug\ES.controller.pdb
 E:\visual studios\SeniorDesign\ES.controller\obj\Debug\ES.controller.csprojResolveAssemblyReference.cache
 E:\visual studios\SeniorDesign\ES.controller\obj\Debug\ES.controller.dll
 E:\visual studios\SeniorDesign\ES.controller\obj\Debug\ES.controller.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\ES.controller\bin\Debug\ES.controller.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\ES.controller\bin\Debug\ES.controller.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\ES.controller\bin\Debug\ClassLibrary1.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\ES.controller\bin\Debug\ClassLibrary1.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\ES.controller\obj\Debug\ES.controller.csprojResolveAssemblyReference.cache
+C:\Users\miles\Documents\GitHub\SeniorDesign\ES.controller\obj\Debug\ES.controller.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\ES.controller\obj\Debug\ES.controller.pdb

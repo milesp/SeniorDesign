@@ -41,6 +41,13 @@
   <ItemGroup>
     <Compile Include="Properties\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stuff.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ES.Models.csproj">
+      <Project>{5106f292-e82c-4ed8-bfc7-4373ba18f126}</Project>
+      <Name>ES.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

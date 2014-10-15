@@ -35,3 +35,41 @@ E:\visual studios\SeniorDesign\SeniorDesign\bin\Microsoft.AspNet.FriendlyUrls.xm
 E:\visual studios\SeniorDesign\SeniorDesign\obj\Debug\SeniorDesign.csprojResolveAssemblyReference.cache
 E:\visual studios\SeniorDesign\SeniorDesign\obj\Debug\SeniorDesign.dll
 E:\visual studios\SeniorDesign\SeniorDesign\obj\Debug\SeniorDesign.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\ClassLibrary1.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\SeniorDesign.dll.config
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\SeniorDesign.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\SeniorDesign.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Antlr3.Runtime.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\ClassLibrary1.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.Core.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\EntityFramework.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\ES.controller.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\System.Web.Optimization.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\System.Web.Providers.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\WebGrease.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\ES.controller.pdb
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\EntityFramework.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.Core.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\obj\Debug\SeniorDesign.csprojResolveAssemblyReference.cache
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\obj\Debug\SeniorDesign.dll
+C:\Users\miles\Documents\GitHub\SeniorDesign\SeniorDesign\obj\Debug\SeniorDesign.pdb

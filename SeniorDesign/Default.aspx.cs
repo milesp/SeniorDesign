@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using ES.Models;
 
 namespace SeniorDesign
 {
@@ -17,17 +18,22 @@ namespace SeniorDesign
 
           protected void Calendar1_SelectionChanged(object sender, EventArgs e)
           {
-               //string x = Calendar1.SelectedDate.ToLongDateString();
-              //Label1.Text = Calendar1.SelectedDate.ToLongDateString();
-               //Console.Out.WriteLine( x);
+
 
           }
 
-          protected void NumOfDays_TextChanged(object sender, EventArgs e)
+          public void NumOfDays_TextChanged(object sender, EventArgs e)
           {
-               string x = shiftsPerDay.Text.ToString();
-               //Label2.Text = shiftsPerDay.Text;
-               Label2.Text = x;
+              int workDaysPerWeek = Convert.ToInt32(shiftsPerDay.Text.ToString());
+              int numOfShiftsPerDay = Convert.ToInt32(NumOfDays.Text.ToString());
+              //Label2.Text = shiftsPerDay.Text;
+              string x = shiftsPerDay.Text.ToString();
+              bool[,] availability = new bool[workDaysPerWeek, numOfShiftsPerDay];
+              Label2.Text = x;
+              Employee q = new Employee();
+              //name, ssn, exp, availability, wage, min, max
+              Employee y = new Employee("miles", "124432", 1.0, availability, 20.0, 1, 1);
+
           }
           
      }
