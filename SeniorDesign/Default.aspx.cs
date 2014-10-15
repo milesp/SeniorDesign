@@ -17,7 +17,7 @@ namespace SeniorDesign
 
           protected void Calendar1_SelectionChanged(object sender, EventArgs e)
           {
-               string x = Calendar1.SelectedDate.ToLongDateString();
+               //string x = Calendar1.SelectedDate.ToLongDateString();
               //Label1.Text = Calendar1.SelectedDate.ToLongDateString();
                //Console.Out.WriteLine( x);
 
