@@ -2,9 +2,7 @@
 
 
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
-     <p>
-          kekekekekekekekekek</p>
-</asp:Content>
+     </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <ol class="round">
          <li class="three">
@@ -13,19 +11,12 @@
         </li>
          <li class="three">
               <asp:TextBox ID="NumOfDays" runat="server" Columns="3" Height="25px" Width="111px">numofdays</asp:TextBox>
-        </li>
-         <li class="three">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <asp:TextBox ID="shiftsPerDay" runat="server">shifts per day</asp:TextBox>
+              <asp:Repeater ID="Repeater1" runat="server">
+              </asp:Repeater>
         </li>
     </ol>
      <p>
-          <asp:Table ID="Table1" runat="server" Height="81px" Width="255px">
-              <asp:TableRow runat="server">
-              </asp:TableRow>
-              <asp:TableRow runat="server">
-              </asp:TableRow>
-              <asp:TableRow runat="server">
-              </asp:TableRow>
-          </asp:Table>
-    </p>
+          &nbsp;</p>
 </asp:Content>
